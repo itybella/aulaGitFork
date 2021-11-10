@@ -1,0 +1,2 @@
+Olá meu nome é Lucas,
+2017.1, gosto de JS principalmente no back com node
